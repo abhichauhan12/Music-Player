@@ -580,7 +580,7 @@ public final class DaggerMusicAppApplication_HiltComponents_SingletonC {
     }
 
     @Override
-    public void injectMusicAppApplication(MusicAppApplication musicAppApplication) {
+    public void injectMusicAppApplication(MusicAppApplication arg0) {
     }
 
     @Override

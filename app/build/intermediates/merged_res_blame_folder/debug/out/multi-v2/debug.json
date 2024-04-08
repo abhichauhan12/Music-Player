@@ -7528,7 +7528,24 @@
             "outputFile": "com.abhishek.musicapp-merged_res-53:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\Abhishek chauhan\\Desktop\\samespace test\\Music-Player-musicPlayer\\Music Player\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\Abhishek chauhan\\.gradle\\caches\\transforms-3\\9fb1425095f062014147ccbb70434e00\\transformed\\appcompat-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12,38",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "171,241,325,409,505,607,709,3564",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "236,320,404,500,602,704,798,3648"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Abhishek chauhan\\Desktop\\MusicPlayer\\Music Player\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -7544,23 +7561,6 @@
                         "endLines": "5",
                         "endColumns": "12",
                         "endOffsets": "166"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Abhishek chauhan\\.gradle\\caches\\transforms-3\\9fb1425095f062014147ccbb70434e00\\transformed\\appcompat-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,125,209,293,389,491,593,687",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "120,204,288,384,486,588,682,771"
-                    },
-                    "to": {
-                        "startLines": "6,7,8,9,10,11,12,38",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "171,241,325,409,505,607,709,3564",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "236,320,404,500,602,704,798,3648"
                     }
                 },
                 {
@@ -7798,22 +7798,20 @@
             "outputFile": "com.abhishek.musicapp-merged_res-53:/values_values.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\Abhishek chauhan\\Desktop\\samespace test\\Music-Player-musicPlayer\\Music Player\\app\\src\\main\\res\\values\\themes.xml",
+                    "source": "C:\\Users\\Abhishek chauhan\\Desktop\\MusicPlayer\\Music Player\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
                     "from": {
-                        "startLines": "2,5",
-                        "startColumns": "4,4",
-                        "startOffsets": "100,199",
-                        "endLines": "3,8",
-                        "endColumns": "12,12",
-                        "endOffsets": "193,397"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "56",
+                        "endOffsets": "109"
                     },
                     "to": {
-                        "startLines": "2568,6540",
-                        "startColumns": "4,4",
-                        "startOffsets": "180281,458984",
-                        "endLines": "2569,6543",
-                        "endColumns": "12,12",
-                        "endOffsets": "180374,459182"
+                        "startLines": "706",
+                        "startColumns": "4",
+                        "startOffsets": "37170",
+                        "endColumns": "56",
+                        "endOffsets": "37222"
                     }
                 },
                 {
@@ -7920,23 +7918,6 @@
                         "endLines": "532,533,534,535,1805,9290,9301,12909,12921,12929",
                         "endColumns": "11,59,51,44,59,24,24,24,24,24",
                         "endOffsets": "27000,27060,27112,27157,120309,641174,641609,775078,775518,775827"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Abhishek chauhan\\Desktop\\samespace test\\Music-Player-musicPlayer\\Music Player\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,97",
-                        "endColumns": "41,41",
-                        "endOffsets": "92,134"
-                    },
-                    "to": {
-                        "startLines": "648,966",
-                        "startColumns": "4,4",
-                        "startOffsets": "33134,56736",
-                        "endColumns": "41,41",
-                        "endOffsets": "33171,56773"
                     }
                 },
                 {
@@ -8050,23 +8031,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Abhishek chauhan\\Desktop\\samespace test\\Music-Player-musicPlayer\\Music Player\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endColumns": "56",
-                        "endOffsets": "109"
-                    },
-                    "to": {
-                        "startLines": "706",
-                        "startColumns": "4",
-                        "startOffsets": "37170",
-                        "endColumns": "56",
-                        "endOffsets": "37222"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Abhishek chauhan\\.gradle\\caches\\transforms-3\\1a1103d448a3d8696d3db11017d643bf\\transformed\\coordinatorlayout-1.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,6,16",
@@ -8086,7 +8050,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Abhishek chauhan\\Desktop\\samespace test\\Music-Player-musicPlayer\\Music Player\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\Abhishek chauhan\\Desktop\\MusicPlayer\\Music Player\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "1,3",
                         "startColumns": "4,4",
@@ -8244,6 +8208,42 @@
                         "startOffsets": "133221,133291,133353,133418,133482,133559,133624,133714,133798",
                         "endColumns": "69,61,64,63,76,64,89,83,68",
                         "endOffsets": "133286,133348,133413,133477,133554,133619,133709,133793,133862"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Abhishek chauhan\\Desktop\\MusicPlayer\\Music Player\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,97",
+                        "endColumns": "41,41",
+                        "endOffsets": "92,134"
+                    },
+                    "to": {
+                        "startLines": "648,966",
+                        "startColumns": "4,4",
+                        "startOffsets": "33134,56736",
+                        "endColumns": "41,41",
+                        "endOffsets": "33171,56773"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Abhishek chauhan\\Desktop\\MusicPlayer\\Music Player\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "100,199",
+                        "endLines": "3,8",
+                        "endColumns": "12,12",
+                        "endOffsets": "193,397"
+                    },
+                    "to": {
+                        "startLines": "2568,6540",
+                        "startColumns": "4,4",
+                        "startOffsets": "180281,458984",
+                        "endLines": "2569,6543",
+                        "endColumns": "12,12",
+                        "endOffsets": "180374,459182"
                     }
                 },
                 {

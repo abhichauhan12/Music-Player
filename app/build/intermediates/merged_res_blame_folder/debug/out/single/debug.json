@@ -1,162 +1,158 @@
 [
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\drawable_ic_pause.png.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\drawable\\ic_pause.png"
+        "merged": "com.abhishek.musicapp-merged_res-53:/layout_activity_main.xml.flat",
+        "source": "com.abhishek.musicapp-main-55:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.abhishek.musicapp-merged_res-53:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.abhishek.musicapp-main-55:/mipmap-hdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "com.abhishek.musicapp-merged_res-53:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.abhishek.musicapp-main-55:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+        "merged": "com.abhishek.musicapp-merged_res-53:/drawable_gradient_background.xml.flat",
+        "source": "com.abhishek.musicapp-main-55:/drawable/gradient_background.xml"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\xml\\backup_rules.xml"
+        "merged": "com.abhishek.musicapp-merged_res-53:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.abhishek.musicapp-main-55:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\layout_fragment_top_tracks.xml.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\layout\\fragment_top_tracks.xml"
+        "merged": "com.abhishek.musicapp-merged_res-53:/drawable_ic_fast_backward.png.flat",
+        "source": "com.abhishek.musicapp-main-55:/drawable/ic_fast_backward.png"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\drawable_music.png.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\drawable\\music.png"
+        "merged": "com.abhishek.musicapp-merged_res-53:/drawable_ic_circle.xml.flat",
+        "source": "com.abhishek.musicapp-main-55:/drawable/ic_circle.xml"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\drawable_dot_indicator.xml.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\drawable\\dot_indicator.xml"
+        "merged": "com.abhishek.musicapp-merged_res-53:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.abhishek.musicapp-main-55:/mipmap-mdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\layout_fragment_home.xml.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\layout\\fragment_home.xml"
+        "merged": "com.abhishek.musicapp-merged_res-53:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.abhishek.musicapp-main-55:/mipmap-xhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.abhishek.musicapp-merged_res-53:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.abhishek.musicapp-main-55:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\drawable_ic_fast_backward.png.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\drawable\\ic_fast_backward.png"
+        "merged": "com.abhishek.musicapp-merged_res-53:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.abhishek.musicapp-main-55:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "com.abhishek.musicapp-merged_res-53:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.abhishek.musicapp-main-55:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.abhishek.musicapp-merged_res-53:/drawable_dot_indicator.xml.flat",
+        "source": "com.abhishek.musicapp-main-55:/drawable/dot_indicator.xml"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.abhishek.musicapp-merged_res-53:/layout_fragment_song.xml.flat",
+        "source": "com.abhishek.musicapp-main-55:/layout/fragment_song.xml"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\drawable_rounded_corner.xml.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\drawable\\rounded_corner.xml"
+        "merged": "com.abhishek.musicapp-merged_res-53:/drawable_rounded_corner.xml.flat",
+        "source": "com.abhishek.musicapp-main-55:/drawable/rounded_corner.xml"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+        "merged": "com.abhishek.musicapp-merged_res-53:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.abhishek.musicapp-main-55:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\drawable_gradient_background.xml.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\drawable\\gradient_background.xml"
+        "merged": "com.abhishek.musicapp-merged_res-53:/xml_backup_rules.xml.flat",
+        "source": "com.abhishek.musicapp-main-55:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+        "merged": "com.abhishek.musicapp-merged_res-53:/layout_fragment_top_tracks.xml.flat",
+        "source": "com.abhishek.musicapp-main-55:/layout/fragment_top_tracks.xml"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\layout_fragment_for_you.xml.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\layout\\fragment_for_you.xml"
+        "merged": "com.abhishek.musicapp-merged_res-53:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.abhishek.musicapp-main-55:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\drawable_ic_fast_forward.png.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\drawable\\ic_fast_forward.png"
+        "merged": "com.abhishek.musicapp-merged_res-53:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.abhishek.musicapp-main-55:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\layout_fragment_mini_player.xml.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\layout\\fragment_mini_player.xml"
-    },
-    {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.abhishek.musicapp-merged_res-53:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.abhishek.musicapp-main-55:/mipmap-xxhdpi/ic_launcher_foreground.webp"
     },
     {
         "merged": "com.abhishek.musicapp-merged_res-53:/layout_fragment_home.xml.flat",
         "source": "com.abhishek.musicapp-main-55:/layout/fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\drawable_ic_circle.xml.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\drawable\\ic_circle.xml"
+        "merged": "com.abhishek.musicapp-merged_res-53:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.abhishek.musicapp-main-55:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\layout_fragment_song.xml.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\layout\\fragment_song.xml"
+        "merged": "com.abhishek.musicapp-merged_res-53:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.abhishek.musicapp-main-55:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\layout\\activity_main.xml"
+        "merged": "com.abhishek.musicapp-merged_res-53:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.abhishek.musicapp-main-55:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\layout_fragment_audio_thumbnail.xml.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\layout\\fragment_audio_thumbnail.xml"
+        "merged": "com.abhishek.musicapp-merged_res-53:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.abhishek.musicapp-main-55:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+        "merged": "com.abhishek.musicapp-merged_res-53:/drawable_ic_play.png.flat",
+        "source": "com.abhishek.musicapp-main-55:/drawable/ic_play.png"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.abhishek.musicapp-merged_res-53:/layout_music_list_item.xml.flat",
+        "source": "com.abhishek.musicapp-main-55:/layout/music_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "com.abhishek.musicapp-merged_res-53:/navigation_nav_graph.xml.flat",
+        "source": "com.abhishek.musicapp-main-55:/navigation/nav_graph.xml"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.abhishek.musicapp-merged_res-53:/layout_fragment_for_you.xml.flat",
+        "source": "com.abhishek.musicapp-main-55:/layout/fragment_for_you.xml"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.abhishek.musicapp-merged_res-53:/layout_fragment_mini_player.xml.flat",
+        "source": "com.abhishek.musicapp-main-55:/layout/fragment_mini_player.xml"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.abhishek.musicapp-merged_res-53:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.abhishek.musicapp-main-55:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\drawable_ic_play.png.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\drawable\\ic_play.png"
+        "merged": "com.abhishek.musicapp-merged_res-53:/xml_data_extraction_rules.xml.flat",
+        "source": "com.abhishek.musicapp-main-55:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\layout_music_list_item.xml.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\layout\\music_list_item.xml"
+        "merged": "com.abhishek.musicapp-merged_res-53:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.abhishek.musicapp-main-55:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.abhishek.musicapp-merged_res-53:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.abhishek.musicapp-main-55:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\navigation_nav_graph.xml.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\navigation\\nav_graph.xml"
+        "merged": "com.abhishek.musicapp-merged_res-53:/drawable_ic_fast_forward.png.flat",
+        "source": "com.abhishek.musicapp-main-55:/drawable/ic_fast_forward.png"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+        "merged": "com.abhishek.musicapp-merged_res-53:/drawable_music.png.flat",
+        "source": "com.abhishek.musicapp-main-55:/drawable/music.png"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.abhishek.musicapp-merged_res-53:/layout_fragment_audio_thumbnail.xml.flat",
+        "source": "com.abhishek.musicapp-main-55:/layout/fragment_audio_thumbnail.xml"
     },
     {
-        "merged": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-merged_res-53:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\Abhishek chauhan\\.gradle\\daemon\\8.0\\com.abhishek.musicapp-main-55:\\xml\\data_extraction_rules.xml"
+        "merged": "com.abhishek.musicapp-merged_res-53:/drawable_ic_pause.png.flat",
+        "source": "com.abhishek.musicapp-main-55:/drawable/ic_pause.png"
     }
 ]

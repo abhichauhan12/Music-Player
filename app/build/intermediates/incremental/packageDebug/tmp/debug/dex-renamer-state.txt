@@ -1,17 +1,17 @@
-#Mon Apr 08 21:30:50 IST 2024
-base.0=C\:\\Users\\Abhishek chauhan\\Desktop\\samespace test\\Music-Player-musicPlayer\\Music Player\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\Users\\Abhishek chauhan\\Desktop\\samespace test\\Music-Player-musicPlayer\\Music Player\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.10=C\:\\Users\\Abhishek chauhan\\Desktop\\samespace test\\Music-Player-musicPlayer\\Music Player\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
-base.11=C\:\\Users\\Abhishek chauhan\\Desktop\\samespace test\\Music-Player-musicPlayer\\Music Player\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
-base.12=C\:\\Users\\Abhishek chauhan\\Desktop\\samespace test\\Music-Player-musicPlayer\\Music Player\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
-base.2=C\:\\Users\\Abhishek chauhan\\Desktop\\samespace test\\Music-Player-musicPlayer\\Music Player\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
-base.3=C\:\\Users\\Abhishek chauhan\\Desktop\\samespace test\\Music-Player-musicPlayer\\Music Player\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
-base.4=C\:\\Users\\Abhishek chauhan\\Desktop\\samespace test\\Music-Player-musicPlayer\\Music Player\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
-base.5=C\:\\Users\\Abhishek chauhan\\Desktop\\samespace test\\Music-Player-musicPlayer\\Music Player\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
-base.6=C\:\\Users\\Abhishek chauhan\\Desktop\\samespace test\\Music-Player-musicPlayer\\Music Player\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
-base.7=C\:\\Users\\Abhishek chauhan\\Desktop\\samespace test\\Music-Player-musicPlayer\\Music Player\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
-base.8=C\:\\Users\\Abhishek chauhan\\Desktop\\samespace test\\Music-Player-musicPlayer\\Music Player\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
-base.9=C\:\\Users\\Abhishek chauhan\\Desktop\\samespace test\\Music-Player-musicPlayer\\Music Player\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
+#Mon Apr 08 22:09:28 IST 2024
+base.0=C\:\\Users\\Abhishek chauhan\\Desktop\\MusicPlayer\\Music Player\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\Abhishek chauhan\\Desktop\\MusicPlayer\\Music Player\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.10=C\:\\Users\\Abhishek chauhan\\Desktop\\MusicPlayer\\Music Player\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
+base.11=C\:\\Users\\Abhishek chauhan\\Desktop\\MusicPlayer\\Music Player\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+base.12=C\:\\Users\\Abhishek chauhan\\Desktop\\MusicPlayer\\Music Player\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.2=C\:\\Users\\Abhishek chauhan\\Desktop\\MusicPlayer\\Music Player\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
+base.3=C\:\\Users\\Abhishek chauhan\\Desktop\\MusicPlayer\\Music Player\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
+base.4=C\:\\Users\\Abhishek chauhan\\Desktop\\MusicPlayer\\Music Player\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
+base.5=C\:\\Users\\Abhishek chauhan\\Desktop\\MusicPlayer\\Music Player\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
+base.6=C\:\\Users\\Abhishek chauhan\\Desktop\\MusicPlayer\\Music Player\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.7=C\:\\Users\\Abhishek chauhan\\Desktop\\MusicPlayer\\Music Player\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
+base.8=C\:\\Users\\Abhishek chauhan\\Desktop\\MusicPlayer\\Music Player\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
+base.9=C\:\\Users\\Abhishek chauhan\\Desktop\\MusicPlayer\\Music Player\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.10=8/classes.dex
