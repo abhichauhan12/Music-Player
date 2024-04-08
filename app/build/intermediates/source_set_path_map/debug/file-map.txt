@@ -1,0 +1,56 @@
+com.abhishek.musicapp-window-1.0.0-0 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\03d2fbdd42bc552a0670fd5ad8abdb3b\transformed\window-1.0.0\res
+com.abhishek.musicapp-lifecycle-livedata-2.7.0-1 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\06680020d6774f61d62f2e3e39fab760\transformed\lifecycle-livedata-2.7.0\res
+com.abhishek.musicapp-lifecycle-livedata-core-2.7.0-2 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\0b8634fddd1698710353a8f4b207b29f\transformed\lifecycle-livedata-core-2.7.0\res
+com.abhishek.musicapp-lifecycle-livedata-core-ktx-2.7.0-3 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\0fbecdd5c305754dd4dbea5768b2eb4d\transformed\lifecycle-livedata-core-ktx-2.7.0\res
+com.abhishek.musicapp-core-ktx-1.9.0-4 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\12080f7fa70953518aaf03dde81f33cc\transformed\core-ktx-1.9.0\res
+com.abhishek.musicapp-lifecycle-service-2.7.0-5 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\14001b99772077f94b91790b974f229e\transformed\lifecycle-service-2.7.0\res
+com.abhishek.musicapp-lifecycle-viewmodel-ktx-2.7.0-6 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\16fda000e14efa43854d5f14f05c14a9\transformed\lifecycle-viewmodel-ktx-2.7.0\res
+com.abhishek.musicapp-coordinatorlayout-1.1.0-7 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\1a1103d448a3d8696d3db11017d643bf\transformed\coordinatorlayout-1.1.0\res
+com.abhishek.musicapp-navigation-common-ktx-2.7.7-8 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\1cdbb0013d235e2b47754bd7238444ca\transformed\navigation-common-ktx-2.7.7\res
+com.abhishek.musicapp-glide-4.15.1-9 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\1e8504ea9de81a22e885dcc7fd0d22ac\transformed\glide-4.15.1\res
+com.abhishek.musicapp-navigation-runtime-2.7.7-10 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\1f003dc2efb66b633c0de9501553c910\transformed\navigation-runtime-2.7.7\res
+com.abhishek.musicapp-emoji2-1.2.0-11 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\1f54b8a9ca26d1ffe95f903ef41ade89\transformed\emoji2-1.2.0\res
+com.abhishek.musicapp-emoji2-views-helper-1.2.0-12 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\23b99d2bd0364ffa6ef966e860dcc244\transformed\emoji2-views-helper-1.2.0\res
+com.abhishek.musicapp-navigation-fragment-2.7.7-13 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\2628d8ad67a9d718216909eb23c2773c\transformed\navigation-fragment-2.7.7\res
+com.abhishek.musicapp-appcompat-resources-1.6.1-14 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\35ea65b1cb04caaec25790be263f6e0c\transformed\appcompat-resources-1.6.1\res
+com.abhishek.musicapp-lifecycle-process-2.7.0-15 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\3e0b0f32de47aac8305f85d02248f7fc\transformed\lifecycle-process-2.7.0\res
+com.abhishek.musicapp-lifecycle-livedata-ktx-2.7.0-16 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\47d8cfba82196919caccddbacdf175eb\transformed\lifecycle-livedata-ktx-2.7.0\res
+com.abhishek.musicapp-recyclerview-1.1.0-17 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\4af471bb284235cd35f9df8b642220ae\transformed\recyclerview-1.1.0\res
+com.abhishek.musicapp-drawerlayout-1.1.1-18 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\560199af7f45b4ab6f2f455bcd080160\transformed\drawerlayout-1.1.1\res
+com.abhishek.musicapp-annotation-experimental-1.3.1-19 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\5a6742baa6e983037e79204d2fe2afaa\transformed\annotation-experimental-1.3.1\res
+com.abhishek.musicapp-constraintlayout-2.1.4-20 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\60a379c4fe4e322826f945266d273c79\transformed\constraintlayout-2.1.4\res
+com.abhishek.musicapp-core-1.9.0-21 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\689e5f095f25fdfb9d3d33d6b80e1f43\transformed\core-1.9.0\res
+com.abhishek.musicapp-core-runtime-2.2.0-22 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\7075f821062dff0e2c3d09635bb5ac14\transformed\core-runtime-2.2.0\res
+com.abhishek.musicapp-lifecycle-viewmodel-2.7.0-23 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\719d14c42810ba5486d62256e046feff\transformed\lifecycle-viewmodel-2.7.0\res
+com.abhishek.musicapp-lifecycle-viewmodel-savedstate-2.7.0-24 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\75e551a62cdba985552c3458ef759ee5\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.abhishek.musicapp-navigation-common-2.7.7-25 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\7b9ac0b473b233d245cd3c399c9d52cd\transformed\navigation-common-2.7.7\res
+com.abhishek.musicapp-viewpager2-1.0.0-26 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\7c5741cbb10066550be7e9facabc68c7\transformed\viewpager2-1.0.0\res
+com.abhishek.musicapp-activity-1.8.2-27 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\8556ae275ae805acd95d2f1e041fb4e4\transformed\activity-1.8.2\res
+com.abhishek.musicapp-lifecycle-runtime-2.7.0-28 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\868890fda71d90e60b536c9050b3a2d4\transformed\lifecycle-runtime-2.7.0\res
+com.abhishek.musicapp-navigation-fragment-ktx-2.7.7-29 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\86b1f4e3372b62f2354105bb0084ef7d\transformed\navigation-fragment-ktx-2.7.7\res
+com.abhishek.musicapp-activity-ktx-1.8.2-30 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\896a0ed128fb191838dcae51d37b9426\transformed\activity-ktx-1.8.2\res
+com.abhishek.musicapp-savedstate-1.2.1-31 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\8d5cd2723a5320b923fcc3413b068fb7\transformed\savedstate-1.2.1\res
+com.abhishek.musicapp-navigation-ui-ktx-2.7.7-32 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\907955c0af9cdf1e834d4fe571f108cc\transformed\navigation-ui-ktx-2.7.7\res
+com.abhishek.musicapp-savedstate-ktx-1.2.1-33 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\92369f54c154155c2a2db3eb0f872b2d\transformed\savedstate-ktx-1.2.1\res
+com.abhishek.musicapp-cardview-1.0.0-34 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\99871a63988a6cb1df58cfc1718a05df\transformed\cardview-1.0.0\res
+com.abhishek.musicapp-appcompat-1.6.1-35 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\9fb1425095f062014147ccbb70434e00\transformed\appcompat-1.6.1\res
+com.abhishek.musicapp-startup-runtime-1.1.1-36 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\a4522a69e7c75831dc09da3d8b85f2a6\transformed\startup-runtime-1.1.1\res
+com.abhishek.musicapp-profileinstaller-1.3.0-37 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\a539b7b72fd6f8bd6a751fe222cc977b\transformed\profileinstaller-1.3.0\res
+com.abhishek.musicapp-databinding-adapters-8.1.1-38 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\ad99998d376b8c47fe8c662f91b7f902\transformed\databinding-adapters-8.1.1\res
+com.abhishek.musicapp-slidingpanelayout-1.2.0-39 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\af544bd5d72cfb5d01ffb0b418879606\transformed\slidingpanelayout-1.2.0\res
+com.abhishek.musicapp-material-1.11.0-40 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\b7298308293d6636c0bc0061b11c13f5\transformed\material-1.11.0\res
+com.abhishek.musicapp-lifecycle-runtime-ktx-2.7.0-41 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\b93f410e063cf1b9aecfb7c706bdfb6e\transformed\lifecycle-runtime-ktx-2.7.0\res
+com.abhishek.musicapp-fragment-1.6.2-42 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\bd03772c3bea9b2fd80b326c0cfe5d07\transformed\fragment-1.6.2\res
+com.abhishek.musicapp-transition-1.4.1-43 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\cb0d854d145c1171712856da48276d8f\transformed\transition-1.4.1\res
+com.abhishek.musicapp-databinding-runtime-8.1.1-44 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\cf951a0a5abef11a2c4b02a3e36d6b7c\transformed\databinding-runtime-8.1.1\res
+com.abhishek.musicapp-navigation-runtime-ktx-2.7.7-45 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\d45c60e263083903d293378545df4a1e\transformed\navigation-runtime-ktx-2.7.7\res
+com.abhishek.musicapp-fragment-ktx-1.6.2-46 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\d56c26cb1585c2f3b6ffbf083dfc03d0\transformed\fragment-ktx-1.6.2\res
+com.abhishek.musicapp-media3-exoplayer-1.3.0-47 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\d9d58605776af265d2e425fbcb2493cb\transformed\media3-exoplayer-1.3.0\res
+com.abhishek.musicapp-navigation-ui-2.7.7-48 C:\Users\Abhishek chauhan\.gradle\caches\transforms-3\ecae0165a62c0190a617ab946993f009\transformed\navigation-ui-2.7.7\res
+com.abhishek.musicapp-pngs-49 C:\Users\Abhishek chauhan\Desktop\samespace test\Music-Player-musicPlayer\Music Player\app\build\generated\res\pngs\debug
+com.abhishek.musicapp-resValues-50 C:\Users\Abhishek chauhan\Desktop\samespace test\Music-Player-musicPlayer\Music Player\app\build\generated\res\resValues\debug
+com.abhishek.musicapp-packageDebugResources-51 C:\Users\Abhishek chauhan\Desktop\samespace test\Music-Player-musicPlayer\Music Player\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.abhishek.musicapp-packageDebugResources-52 C:\Users\Abhishek chauhan\Desktop\samespace test\Music-Player-musicPlayer\Music Player\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.abhishek.musicapp-merged_res-53 C:\Users\Abhishek chauhan\Desktop\samespace test\Music-Player-musicPlayer\Music Player\app\build\intermediates\merged_res\debug
+com.abhishek.musicapp-debug-54 C:\Users\Abhishek chauhan\Desktop\samespace test\Music-Player-musicPlayer\Music Player\app\src\debug\res
+com.abhishek.musicapp-main-55 C:\Users\Abhishek chauhan\Desktop\samespace test\Music-Player-musicPlayer\Music Player\app\src\main\res
